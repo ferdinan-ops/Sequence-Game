@@ -1,2 +1,4 @@
 # Sequence Game
-![home](https://user-images.githubusercontent.com/84588706/148630198-f33e1c03-8a2e-4cfa-8ae2-327425bc1747.jpg)
+
+# ScreenShoots
+![home](https://user-images.githubusercontent.com/84588706/148630216-ce982aff-7b8b-4ee1-a802-e11f18c5485f.jpg)
