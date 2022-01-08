@@ -1,0 +1,18 @@
+C:\Users\ASUS\AppData\Local\Temporary Projects\Sequence Game\bin\Debug\Sequence Game.exe.config
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Sequence Game Project\Sequence Game\Sequence Game\bin\Debug\Sequence Game.exe.config
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Sequence Game Project\Sequence Game\Sequence Game\bin\Debug\Sequence Game.exe
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Sequence Game Project\Sequence Game\Sequence Game\bin\Debug\Sequence Game.pdb
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Sequence Game Project\Sequence Game\Sequence Game\bin\Debug\Sequence Game.xml
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Sequence Game Project\Sequence Game\Sequence Game\bin\Debug\Guna.UI.dll
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Sequence Game Project\Sequence Game\Sequence Game\obj\Debug\Sequence_Game.Home.resources
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Sequence Game Project\Sequence Game\Sequence Game\obj\Debug\Sequence_Game.Resources.resources
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Sequence Game Project\Sequence Game\Sequence Game\obj\Debug\Sequence Game.vbproj.GenerateResource.Cache
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Sequence Game Project\Sequence Game\Sequence Game\obj\Debug\Sequence Game.exe
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Sequence Game Project\Sequence Game\Sequence Game\obj\Debug\Sequence Game.xml
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Sequence Game Project\Sequence Game\Sequence Game\obj\Debug\Sequence Game.pdb
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Sequence Game Project\Sequence Game\Sequence Game\obj\Debug\Sequence_Game.Choose_Game.resources
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Sequence Game Project\Sequence Game\Sequence Game\obj\Debug\Sequence_Game.Color_Sequence_2.resources
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Sequence Game Project\Sequence Game\Sequence Game\obj\Debug\Sequence_Game.Color_Sequence.resources
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Sequence Game Project\Sequence Game\Sequence Game\obj\Debug\Sequence_Game.Score.resources
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Sequence Game Project\Sequence Game\Sequence Game\obj\Debug\Sequence_Game.Word_Sequence_2.resources
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Sequence Game Project\Sequence Game\Sequence Game\obj\Debug\Sequence_Game.Word_Sequence.resources
