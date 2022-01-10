@@ -14,3 +14,5 @@
 ![Score](https://user-images.githubusercontent.com/84588706/148711608-8c636076-0278-429b-80a5-acd6e4b5bbc7.jpg)
 
 ![Word Sequence](https://user-images.githubusercontent.com/84588706/148711636-32cdf45c-37d4-455d-a77b-fbc85ce66585.jpg)
+
+![Word Sequence Play](https://user-images.githubusercontent.com/84588706/148711655-4e0f996b-a088-4366-ad49-76f7e220e771.jpg)
