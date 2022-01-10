@@ -7,3 +7,4 @@
 
 ![Color Sequence](https://user-images.githubusercontent.com/84588706/148630264-b7dc68ce-8443-480f-9cd6-0182a4181a42.jpg)
 
+![Color Sequence Play](https://user-images.githubusercontent.com/84588706/148711356-95e81898-d0d7-4fc8-bc76-c3dc3217c2d5.jpg)
