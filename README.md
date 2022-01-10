@@ -18,3 +18,5 @@
 ![Word Sequence Play](https://user-images.githubusercontent.com/84588706/148711655-4e0f996b-a088-4366-ad49-76f7e220e771.jpg)
 
 ![Word Sequence Answer](https://user-images.githubusercontent.com/84588706/148711713-4c9d0d40-947c-44cc-845c-7805ff54ade4.jpg)
+
+![Word Sequence Game](https://user-images.githubusercontent.com/84588706/148711753-6bccc9fc-9a4b-4520-a44b-e9b039d2be6e.jpg)
