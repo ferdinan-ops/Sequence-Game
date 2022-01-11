@@ -3,8 +3,8 @@
 <h1>ScreenShoots</h1>
 <ul>
     <li>
-        <h2></h2>
-        <img src="" alt="">
+        <h2>Home Page</h2>
+        <img src="https://user-images.githubusercontent.com/84588706/148630216-ce982aff-7b8b-4ee1-a802-e11f18c5485f.jpg" alt="Home Page">
     </li>
     <li>
         <h2></h2>
