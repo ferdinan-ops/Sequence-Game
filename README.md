@@ -23,43 +23,23 @@
         <img src="https://user-images.githubusercontent.com/84588706/148711399-3ffe82d6-8261-438e-9b76-7bbd115439bd.jpg" alt="Color Sequence - Answer">
     </li>
     <li>
-        <h2></h2>
-        <img src="" alt="">
+        <h2>Color Sequence - Score</h2>
+        <img src="https://user-images.githubusercontent.com/84588706/148711608-8c636076-0278-429b-80a5-acd6e4b5bbc7.jpg" alt="Color Sequence - Score">
     </li>
     <li>
-        <h2></h2>
-        <img src="" alt="">
+        <h2>Word Sequence</h2>
+        <img src="https://user-images.githubusercontent.com/84588706/148711636-32cdf45c-37d4-455d-a77b-fbc85ce66585.jpg" alt="Word Sequence">
     </li>
     <li>
-        <h2></h2>
-        <img src="" alt="">
+        <h2>Word Sequence - Start Games</h2>
+        <img src="https://user-images.githubusercontent.com/84588706/148711655-4e0f996b-a088-4366-ad49-76f7e220e771.jpg" alt="Word Sequence - Start Games">
     </li>
     <li>
-        <h2></h2>
-        <img src="" alt="">
+        <h2>Word Sequence - Answer</h2>
+        <img src="https://user-images.githubusercontent.com/84588706/148711713-4c9d0d40-947c-44cc-845c-7805ff54ade4.jpg" alt="Word Sequence - Answer">
     </li>
     <li>
-        <h2></h2>
-        <img src="" alt="">
+        <h2>Word Sequence - Score</h2>
+        <img src="https://user-images.githubusercontent.com/84588706/148711753-6bccc9fc-9a4b-4520-a44b-e9b039d2be6e.jpg" alt="Word Sequence - Score">
     </li>
 </ul>
-
-![home]()
-
-![Choose Games]()
-
-![Color Sequence]()
-
-![Color Sequence Play]()
-
-![Color Sequence Answer]()
-
-![Score](https://user-images.githubusercontent.com/84588706/148711608-8c636076-0278-429b-80a5-acd6e4b5bbc7.jpg)
-
-![Word Sequence](https://user-images.githubusercontent.com/84588706/148711636-32cdf45c-37d4-455d-a77b-fbc85ce66585.jpg)
-
-![Word Sequence Play](https://user-images.githubusercontent.com/84588706/148711655-4e0f996b-a088-4366-ad49-76f7e220e771.jpg)
-
-![Word Sequence Answer](https://user-images.githubusercontent.com/84588706/148711713-4c9d0d40-947c-44cc-845c-7805ff54ade4.jpg)
-
-![Word Sequence Game](https://user-images.githubusercontent.com/84588706/148711753-6bccc9fc-9a4b-4520-a44b-e9b039d2be6e.jpg)
