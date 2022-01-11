@@ -16,11 +16,11 @@
     </li>
     <li>
         <h2>Color Sequence - Start Games</h2>
-        <img src="Color Sequence - Start Games" alt="https://user-images.githubusercontent.com/84588706/148711356-95e81898-d0d7-4fc8-bc76-c3dc3217c2d5.jpg">
+        <img src="https://user-images.githubusercontent.com/84588706/148711356-95e81898-d0d7-4fc8-bc76-c3dc3217c2d5.jpg" alt="Color Sequence - Start Games">
     </li>
     <li>
-        <h2></h2>
-        <img src="" alt="">
+        <h2>Color Sequence - Answer</h2>
+        <img src="https://user-images.githubusercontent.com/84588706/148711399-3ffe82d6-8261-438e-9b76-7bbd115439bd.jpg" alt="Color Sequence - Answer">
     </li>
     <li>
         <h2></h2>
@@ -52,7 +52,7 @@
 
 ![Color Sequence Play]()
 
-![Color Sequence Answer](https://user-images.githubusercontent.com/84588706/148711399-3ffe82d6-8261-438e-9b76-7bbd115439bd.jpg)
+![Color Sequence Answer]()
 
 ![Score](https://user-images.githubusercontent.com/84588706/148711608-8c636076-0278-429b-80a5-acd6e4b5bbc7.jpg)
 
