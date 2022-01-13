@@ -2,9 +2,16 @@
 <h2>Description</h2>
 Hi!👋
 <p>Wellcome to My Sequence Game Project.</p>
-<p>Sequence Game is game to make a good memory for kid. This game has 2 level: (1)Color Sequence Level,in this level kid will give a lot of color box from the game to remembering it on time. (2) Word Sequence, in this level kid will give a lot of the names of months that have different color in each.</p>
+<p>Sequence Game is game to make a good memory for kid. This game has 2 level: (1)Color Sequence Level,in this level kid will give a lot of color box from the game to remembering it on time. (2) Word Sequence, in this level kid will give a lot of the names of months that have different color in each. I make this project with a beautifull design and suitable for kids.</p>
 
 <h2>What I Use</h2>
+<ol>
+  <li><b>Programing Language:</b> Visual Basic</li>
+  <li><b>Framework:</b> GUNA UI</li>
+  <li><b>IDE:</b> Microsof Visual Studio 2012</li>
+  <li><b>CI/CD:</b> Github</li>
+</ol>
+
 <h1>ScreenShoots</h1>
 <ul>
     <li>
