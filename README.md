@@ -1,4 +1,7 @@
 # Sequence Game
+Hi!👋
+<p>Wellcome to My Sequence Game Project.</p>
+<p>Sequence Game is game to make a good memory for kid. This game has 2 level: (1)Color Sequence Level,in this level kid will give a lot of color box from the game to remembering it on time. (2) </p>
 
 <h1>ScreenShoots</h1>
 <ul>
