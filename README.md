@@ -12,6 +12,8 @@ Hi!👋
   <li><b>CI/CD:</b> Github</li>
 </ol>
 
+<h2>Goals</h2>
+<p>Goals of Sequence Game Project is make a kid or someone to have good memory</p>
 <h1>ScreenShoots</h1>
 <ul>
     <li>
