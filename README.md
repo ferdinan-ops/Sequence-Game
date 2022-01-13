@@ -13,7 +13,7 @@ Hi!👋
 </ol>
 
 <h2>Goals</h2>
-<p>Goals of Sequence Game Project is make a kid or someone to have good memory</p>
+<p>Goals of Sequence Game Project is make a kid or someone to have good memory. Because many kids and people have a bad memory in this era because their bad activites or another problem that them have. So, I make this project game to fixed that and make a new generation have a good memeory. If you want develop this project, this project is open to all of you.</p>
 <h1>ScreenShoots</h1>
 <ul>
     <li>
